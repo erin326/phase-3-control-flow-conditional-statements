@@ -49,6 +49,7 @@ function fizzbuzz(num) {
   }
 }
 
+
 /*
   Write a method `calculator` that takes three arguments: an operation and two
   numbers. If the operation is one of the following: `+`, `-`, `*`, or `\`,
